@@ -1,0 +1,19 @@
+{
+  "games": [
+    {
+      "name": "Midnight Driving",
+      "type": "game",
+      "version": "0.0.1",
+      "demo_link": "https://saumyadip.itch.io/midnight-driving",
+      "image_link": "NA",
+      "docs_link": "https://saumyadip.itch.io/midnight-driving",
+      "video_desc_link": "https://youtu.be/IxaGxTqCs7k?si=aoy4eXT2n8iqynNO",
+      "source_code_link": "NA",
+      "short_description": "A simple cyberpunk themed car driving game.",
+      "tech_stack_used": ["Godot 3", "GDScript", "Blender"],
+      "date_published": "2022-12-29",
+      "availability": "public"
+    }
+  ]
+}
+  
