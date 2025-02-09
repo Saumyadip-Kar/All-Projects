@@ -9,7 +9,7 @@
         "docs_link": "https://github.com/Saumyadip-Kar/LEO-Satellite-Simulator",
         "video_desc_link": "NA",
         "source_code_link": "https://github.com/Saumyadip-Kar/LEO-Satellite-Simulator",
-        "short_description": "A web based simulator for scheduling Low-Earth-Orbit satellite constellation.",
+        "short_description": "A web based simulator for Low-Earth-Orbit satellite constellation.",
         "tech_stack_used": ["Javascript", "Python", "Three.js"],
         "date_published": "2024-07-02",
         "availability": "public"
