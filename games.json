@@ -16,20 +16,6 @@
       
     },
     {
-      "name": "Conway's Game of Life",
-      "type": "game",
-      "version": "0.0.1",
-      "demo_link": "https://saumyadip-kar.github.io/Conway-s-Game-of-Life",
-      "image_link": "https://raw.githubusercontent.com/Saumyadip-Kar/Conway-s-Game-of-Life/main/sample.gif",
-      "docs_link": "https://saumyadip-kar.github.io/Conway-s-Game-of-Life",
-      "video_desc_link": "NA",
-      "source_code_link": "NA",
-      "short_description": "Simple 2D Automata Simulating Conway's Game of Life",
-      "tech_stack_used": ["Javascript", "Tailwind.css"],
-      "date_published": "2025-01-04",
-      "availability": "public"
-    },
-    {
       "name": "Nine Islands",
       "type": "game",
       "version": "0.0.1",
