@@ -1,0 +1,48 @@
+{
+    "projects": [
+      {
+        "name": "Low Earth Orbit Satellitle Simulator",
+        "type": "simulator",
+        "version": "1.0",
+        "demo_link": "https://saumyadip-kar.github.io/LEO-Satellite-Simulator/",
+        "image_link": "https://raw.githubusercontent.com/Saumyadip-Kar/LEO-Satellite-Simulator/master/sat-sim.gif",
+        "docs_link": "https://github.com/Saumyadip-Kar/LEO-Satellite-Simulator",
+        "video_desc_link": "NA",
+        "source_code_link": "https://github.com/Saumyadip-Kar/LEO-Satellite-Simulator",
+        "short_description": "A web based simulator for scheduling Low-Earth-Orbit satellite constellation.",
+        "tech_stack_used": ["Javascript", "Python", "Three.js"],
+        "date_published": "2024-07-02",
+        "availability": "public"
+        
+      },
+      {
+        "name": "Conway's Game of Life",
+        "type": "game",
+        "version": "0.0.1",
+        "demo_link": "https://saumyadip-kar.github.io/Conway-s-Game-of-Life",
+        "image_link": "https://raw.githubusercontent.com/Saumyadip-Kar/Conway-s-Game-of-Life/main/sample.gif",
+        "docs_link": "https://saumyadip-kar.github.io/Conway-s-Game-of-Life",
+        "video_desc_link": "NA",
+        "source_code_link": "https://github.com/Saumyadip-Kar/Conway-s-Game-of-Life",
+        "short_description": "Simple 2D Automata Simulating Conway's Game of Life",
+        "tech_stack_used": ["Javascript", "Tailwind.css"],
+        "date_published": "2025-01-04",
+        "availability": "public"
+      },
+      {
+        "name": "Nine Islands",
+        "type": "game",
+        "version": "0.0.1",
+        "demo_link": "NA",
+        "image_link": "https://raw.githubusercontent.com/Saumyadip-Kar/Unreleased/main/Images/g3.gif",
+        "docs_link": "NA",
+        "video_desc_link": "https://youtu.be/Hw41KOZIHA8?si=4VqtNJ8ShiW5FCMZ",
+        "source_code_link": "NA",
+        "short_description": "A first-person survival shooter video game based on UE5.",
+        "tech_stack_used": ["Unreal Engine 5", "Blender"],
+        "date_published": "NA",
+        "availability": "unreleased"
+      }
+    ]
+  }
+    
