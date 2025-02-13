@@ -28,20 +28,6 @@
         "tech_stack_used": ["Javascript", "Tailwind.css"],
         "date_published": "2025-01-04",
         "availability": "public"
-      },
-      {
-        "name": "Graph Algorithm Simulator",
-        "type": "simulator",
-        "version": "0.0.1",
-        "demo_link": "https://saumyadip-kar.github.io/graph_algorithm_simulator/",
-        "image_link": "https://raw.githubusercontent.com/Saumyadip-Kar/graph_algorithm_simulator/main/Examples/test1.gif",
-        "docs_link": "https://github.com/Saumyadip-Kar/graph_algorithm_simulator/",
-        "video_desc_link": "NA",
-        "source_code_link": "https://github.com/Saumyadip-Kar/graph_algorithm_simulator/",
-        "short_description": "A web-based graph algorithms simulator",
-        "tech_stack_used": ["Javascript", "Tailwind.css", "Cytoscape"],
-        "date_published": "2025-02-13",
-        "availability": "public"
       }
     ]
   }
