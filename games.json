@@ -85,6 +85,20 @@
       "tech_stack_used": ["Javascript", "three.js"],
       "date_published": "2025-02-14",
       "availability": "public"
+    },
+    {
+      "name": "AI Search Simulator",
+      "type": "Simulator",
+      "version": "1.0",
+      "demo_link": "https://saumyadip-kar.github.io/AI-Search-Simulator/",
+      "image_link": "https://raw.githubusercontent.com/Saumyadip-Kar/AI-Search-Simulator/main/Examples/test.gif",
+      "docs_link": "NA",
+      "video_desc_link": "NA",
+      "source_code_link": "https://github.com/Saumyadip-Kar/AI-Search-Simulator",
+      "short_description": "AI Search Simulator (Path Planning)",
+      "tech_stack_used": ["Javascript", "three.js"],
+      "date_published": "2025-02-16",
+      "availability": "public"
     }
   ]
 }
