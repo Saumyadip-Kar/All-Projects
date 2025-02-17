@@ -129,6 +129,20 @@
       "availability": "public"
     },
     {
+      "name": "Grid-Swap Saga",
+      "type": "Video Game",
+      "version": "1.0",
+      "demo_link": "https://saumyadip-kar.github.io/Swap_Puzzle/",
+      "image_link": "https://raw.githubusercontent.com/Saumyadip-Kar/Swap_Puzzle/main/Examples/test.gif",
+      "docs_link": "NA",
+      "video_desc_link": "NA",
+      "source_code_link": "https://github.com/Saumyadip-Kar/Swap_Puzzle",
+      "short_description": "Tile Swap Puzzle: Arrange the grid in the correct order.",
+      "tech_stack_used": ["Javascript"],
+      "date_published": "2025-02-17",
+      "availability": "public"
+    },
+    {
       "name": "Elementary Cellular Automata Simulator",
       "type": "simulator",
       "version": "1.0",
