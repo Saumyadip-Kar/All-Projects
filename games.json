@@ -141,6 +141,21 @@
       "tech_stack_used": ["Javascript"],
       "date_published": "2025-02-17",
       "availability": "public"
+    },
+    ,
+    {
+      "name": "Kolkata Academic Network",
+      "type": "Application",
+      "version": "1.0",
+      "demo_link": "https://saumyadip-kar.github.io/AcademicArchive",
+      "image_link": "",
+      "docs_link": "",
+      "video_desc_link": "NA",
+      "source_code_link": "",
+      "short_description": "",
+      "tech_stack_used": ["Javascript"],
+      "date_published": "2026-04-10",
+      "availability": "public"
     }
   ]
 }
